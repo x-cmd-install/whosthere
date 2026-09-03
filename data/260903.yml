@@ -1,17 +1,19 @@
 about:
-  description: Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
+  description:
+  |
+    Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
   license: Apache-2.0
   homepage: 
   head: 7e306d4
   archived: false
   latestVersion: v0.8.3
-  collectedAt: 2026-09-03T05:31:57Z
+  collectedAt: 2026-09-03T22:34:24Z
 timeline:
   created: 2025-08-20
   lastCommit: 2026-08-25
   lastRelease: 2026-07-23
 popularity:
-  star: 2442
+  star: 2441
   watcher: 7
   fork: 74
   release: 16
@@ -22,7 +24,7 @@ language:
   Go: 377286
   Makefile: 1194
   Shell: 1029
-totalLine: 379509
+totalBytes: 379509
 recent:
   last30d:
     since: 2026-08-04
