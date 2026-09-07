@@ -5,7 +5,7 @@ about:
   head: 7e306d4
   archived: false
   latestVersion: "v0.8.3"
-  collectedAt: 2026-09-07T05:07:40Z
+  collectedAt: 2026-09-07T19:19:41Z
 timeline:
   created: 2025-08-20
   lastCommit: 2026-08-25
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 2
   last60d:
     since: 2026-07-09
     release: 1
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 5
   last90d:
     since: 2026-06-09
     release: 1
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 11
   last180d:
     since: 2026-03-11
     release: 6
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 5
     openIssue: 3
-    commit: 0
+    commit: 47
   last360d:
     since: 2025-09-12
     release: 16
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 28
     openIssue: 7
-    commit: 0
+    commit: 151
   last720d:
     since: 2024-09-17
     release: 16
@@ -81,7 +81,7 @@ total:
   commit: 173
 ---
 path: /home/runner/.x-repo/github.com/ramonvermeulen/whosthere
-collectedAt: 2026-09-07T05:07:41Z
+collectedAt: 2026-09-07T19:19:42Z
 loc:
   Go:
     code: 11246
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:42+00:00
+  collectedAt: 2026-09-07T19:19:43+00:00
   platform:
     darwin/arm64:
       name:  whosthere_0.8.3_darwin_arm64.tar.gz
