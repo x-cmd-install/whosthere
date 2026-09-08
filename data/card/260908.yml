@@ -1,0 +1,120 @@
+about:
+  description: "Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪"
+  license: Apache-2.0
+  homepage: 
+  head: 7e306d4
+  archived: false
+  latestVersion: "v0.8.3"
+  collectedAt: 2026-09-08T02:34:08Z
+timeline:
+  created: 2025-08-20
+  lastCommit: 2026-08-25
+  lastRelease: 2026-07-23
+popularity:
+  star: 2447
+  watcher: 8
+  fork: 75
+  release: 16
+  contributor: 11
+  pullRequest: 100
+  issue: 35
+language:
+  Go: 377286
+  Makefile: 1194
+  Shell: 1029
+totalBytes: 379509
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last60d:
+    since: 2026-07-10
+    release: 1
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-06-10
+    release: 1
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 11
+  last180d:
+    since: 2026-03-12
+    release: 6
+    mergedPR: 40
+    openPR: 0
+    closedIssue: 5
+    openIssue: 3
+    commit: 47
+  last360d:
+    since: 2025-09-13
+    release: 16
+    mergedPR: 87
+    openPR: 0
+    closedIssue: 28
+    openIssue: 7
+    commit: 151
+  last720d:
+    since: 2024-09-18
+    release: 16
+    mergedPR: 87
+    openPR: 0
+    closedIssue: 28
+    openIssue: 7
+    commit: 173
+total:
+  release: 16
+  mergedPR: 87
+  openPR: 0
+  closedIssue: 28
+  openIssue: 7
+  commit: 173
+---
+path: /home/runner/.x-repo/github.com/ramonvermeulen/whosthere
+collectedAt: 2026-09-08T02:34:09Z
+loc:
+  Go:
+    code: 11246
+    comments: 937
+    blanks: 1907
+    files: 111
+  Makefile:
+    code: 32
+    comments: 3
+    blanks: 11
+    files: 1
+  Sh:
+    code: 28
+    comments: 1
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 155
+    blanks: 70
+    files: 1
+total:
+  code: 11344
+  comments: 1124
+  blanks: 2007
+  files: 114
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	whosthere_0.8.3_darwin_arm64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_darwin_arm64.tar.gz	6508587	145
+darwin/amd64	whosthere_0.8.3_darwin_amd64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_darwin_amd64.tar.gz	6914460	145
+linux/arm64	whosthere_0.8.3_linux_arm64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_arm64.tar.gz	6272748	145
+linux/amd64	whosthere_0.8.3_linux_amd64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_amd64.tar.gz	6819939	145
+win/arm64	whosthere_0.8.3_windows_arm64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_windows_arm64.tar.gz	6350163	45
+win/amd64	whosthere_0.8.3_windows_amd64.tar.gz	https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_windows_amd64.tar.gz	6997310	45
