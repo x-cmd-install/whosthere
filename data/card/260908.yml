@@ -5,7 +5,7 @@ about:
   head: 7e306d4
   archived: false
   latestVersion: "v0.8.3"
-  collectedAt: 2026-09-08T02:34:08Z
+  collectedAt: 2026-09-08T05:04:25Z
 timeline:
   created: 2025-08-20
   lastCommit: 2026-08-25
@@ -81,7 +81,7 @@ total:
   commit: 173
 ---
 path: /home/runner/.x-repo/github.com/ramonvermeulen/whosthere
-collectedAt: 2026-09-08T02:34:09Z
+collectedAt: 2026-09-08T05:04:27Z
 loc:
   Go:
     code: 11246
