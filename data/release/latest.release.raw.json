@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1014,
       "digest": "sha256:31fdd9fd2cbe47f71812740e1972c8271fa19d638b6b055be77d1dabe7e6edbb",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-07-23T07:01:28Z",
       "updated_at": "2026-07-23T07:01:28Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6914460,
       "digest": "sha256:e79ee001d276c3842c17d48699e730b037e450c2bd2327e09a2f5798251d3f4e",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-07-23T07:01:26Z",
       "updated_at": "2026-07-23T07:01:27Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6508587,
       "digest": "sha256:51ee6ce87931a4f8707c0d1fbce9c0813af908370f2620182880d9df431e09d3",
-      "download_count": 109,
+      "download_count": 110,
       "created_at": "2026-07-23T07:01:26Z",
       "updated_at": "2026-07-23T07:01:27Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6565237,
       "digest": "sha256:64f007065571aec170d688aecfe4a3e219668e39744cce3eb5cdc8e7879b4d7a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-07-23T07:01:27Z",
       "updated_at": "2026-07-23T07:01:28Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6819939,
       "digest": "sha256:73e2f9b4887d6abe3334f6da61e1b8c701da89198e99a03b7a20c5c5473d68ca",
-      "download_count": 628,
+      "download_count": 630,
       "created_at": "2026-07-23T07:01:27Z",
       "updated_at": "2026-07-23T07:01:28Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6272748,
       "digest": "sha256:bada504d3ae8ac255d20dbe580e4d7051db3a60855ee367d45bb2437ab87b85f",
-      "download_count": 72,
+      "download_count": 74,
       "created_at": "2026-07-23T07:01:27Z",
       "updated_at": "2026-07-23T07:01:28Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6522844,
       "digest": "sha256:e524902b573a53fed4f1d15d985b06efe819b825562ba2f1aea0ff042984fe62",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-07-23T07:01:27Z",
       "updated_at": "2026-07-23T07:01:28Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_armv6.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6513399,
       "digest": "sha256:7c5c9a111b6bb97a858214f8143a90e45dd127ba8c19a72a8efbc447d523c890",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-07-23T07:01:28Z",
       "updated_at": "2026-07-23T07:01:29Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_linux_armv7.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6799944,
       "digest": "sha256:07848a365eb0fef58e82d6faa04701a68b05f6e7dceb009f58b54f827f6c67ce",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-07-23T07:01:28Z",
       "updated_at": "2026-07-23T07:01:29Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_windows_386.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6997310,
       "digest": "sha256:59510c76f28e1a8215b7e1e89c1faba721078cf5064f1632a4222560e296bf0f",
-      "download_count": 788,
+      "download_count": 790,
       "created_at": "2026-07-23T07:01:26Z",
       "updated_at": "2026-07-23T07:01:27Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_windows_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6350163,
       "digest": "sha256:85b131546079c7bd21ec7f88068e5a6800a8eacceb259db06e841db41bacbef5",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-07-23T07:01:26Z",
       "updated_at": "2026-07-23T07:01:27Z",
       "browser_download_url": "https://github.com/ramonvermeulen/whosthere/releases/download/v0.8.3/whosthere_0.8.3_windows_arm64.tar.gz"
