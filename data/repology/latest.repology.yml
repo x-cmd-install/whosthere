@@ -1,0 +1,92 @@
+- repo: altsisyphus
+  srcname: whosthere
+  binnames:
+    - whosthere
+    - whosthere-debuginfo
+  visiblename: whosthere
+  version: 0.8.2
+  origversion: 0.8.2-alt1
+  status: outdated
+  summary: Local Area Network discovery tool with a TUI
+  maintainers:
+    - medovi@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
+- repo: aur
+  srcname: whosthere
+  binname: whosthere
+  visiblename: whosthere
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Local Area Network discovery tool
+  maintainers:
+    - brenekh@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: whosthere-bin
+  binname: whosthere-bin
+  visiblename: whosthere-bin
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Local Area Network discovery tool with a modern Terminal User Interface
+  maintainers:
+    - mopoke@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: whosthere
+  visiblename: whosthere
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there?
+- repo: homebrew
+  srcname: whosthere
+  visiblename: whosthere
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: LAN discovery tool with a modern TUI written in Go
+- repo: homebrew
+  srcname: whosthere
+  visiblename: whosthere
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: LAN discovery tool with a modern TUI written in Go
+- repo: nix_stable_26_05
+  srcname: whosthere
+  visiblename: whosthere
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Local Area Network discovery tool
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: whosthere
+  visiblename: whosthere
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: Local Area Network discovery tool
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: whosthere
+  visiblename: whosthere
+  version: 0.8.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
