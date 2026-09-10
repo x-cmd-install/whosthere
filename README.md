@@ -36,7 +36,7 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,446 · **Forks**: 75 · **Open issues**: 35 · **Contributors**: 11
+- **Stars**: 2,447 · **Forks**: 75 · **Open issues**: 35 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -87,4 +87,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:41:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:07:32Z._
