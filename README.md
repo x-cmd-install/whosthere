@@ -21,7 +21,7 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 | Go | 11,246 | 937 | 1,907 | 111 |
 | Makefile | 32 | 3 | 11 | 1 |
 | Sh | 28 | 1 | 8 | 1 |
-| Markdown | 0 | 155 | 70 | 1 |
+| Markdown | 0 | 154 | 70 | 1 |
 
 ## Source
 
@@ -31,7 +31,7 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.3` (2026-07-23)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 11
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 7 · **Commits**: 175
+- **Releases**: 16 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 7 · **Commits**: 176
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 4 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-16 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-16 | 1 | 13 | 0 | 0 | 1 | 13 |
-| last180d | 2026-03-18 | 5 | 40 | 0 | 4 | 3 | 49 |
-| 360d | 2025-09-19 | 16 | 89 | 0 | 28 | 7 | 153 |
-| last720d | 2024-09-24 | 16 | 89 | 0 | 28 | 7 | 175 |
+| 30d | 2026-08-16 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-17 | 1 | 6 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-17 | 1 | 13 | 0 | 0 | 1 | 14 |
+| last180d | 2026-03-19 | 5 | 40 | 0 | 4 | 3 | 50 |
+| 360d | 2025-09-20 | 16 | 89 | 0 | 28 | 7 | 154 |
+| last720d | 2024-09-25 | 16 | 89 | 0 | 28 | 7 | 176 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:36:09Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:33:28Z._
