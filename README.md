@@ -4,7 +4,7 @@
 
 Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 
-[![x-cmd/install — whosthere Code Quality Monitoring Repo Card](https://repo.x-cmd.io/whosthere.svg)](https://x-cmd.com/install/whosthere)
+[![x-cmd/install — whosthere Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/whosthere.svg)](https://x-cmd.com/install/whosthere)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 5 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 11 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 5 | 40 | 0 | 4 | 3 | 0 |
-| 360d | 2025-09-27 | 16 | 89 | 0 | 28 | 7 | 0 |
-| last720d | 2024-10-02 | 16 | 89 | 0 | 28 | 7 | 176 |
+| 30d | 2026-08-24 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 5 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-25 | 1 | 11 | 0 | 0 | 1 | 12 |
+| last180d | 2026-03-27 | 5 | 40 | 0 | 4 | 3 | 48 |
+| 360d | 2025-09-28 | 16 | 89 | 0 | 28 | 7 | 154 |
+| last720d | 2024-10-03 | 16 | 89 | 0 | 28 | 7 | 176 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:28:06Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:46:41Z._
