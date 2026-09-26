@@ -14,14 +14,14 @@ x install whosthere
 
 ## Code insight
 
-Total: **11,306** lines of code across **114** files in the top 5 languages.
+Total: **11,446** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,246 | 937 | 1,907 | 111 |
+| Go | 11,386 | 946 | 2,002 | 113 |
 | Makefile | 32 | 3 | 11 | 1 |
 | Sh | 28 | 1 | 8 | 1 |
-| Markdown | 0 | 154 | 70 | 1 |
+| Markdown | 0 | 155 | 70 | 1 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **11,306** lines of code across **114** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.3` (2026-07-23)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-25
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 2,450 · **Forks**: 76 · **Open issues**: 35 · **Contributors**: 11
+- **Stars**: 2,451 · **Forks**: 76 · **Open issues**: 35 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 7 · **Commits**: 176
+- **Releases**: 16 · **Merged PRs**: 90 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 6 · **Commits**: 177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-27 | 0 | 5 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-27 | 1 | 11 | 0 | 0 | 1 | 12 |
-| last180d | 2026-03-29 | 5 | 40 | 0 | 4 | 3 | 48 |
-| 360d | 2025-09-30 | 16 | 89 | 0 | 28 | 7 | 154 |
-| last720d | 2024-10-05 | 16 | 89 | 0 | 28 | 7 | 176 |
+| 30d | 2026-08-27 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-28 | 0 | 6 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-28 | 1 | 12 | 0 | 0 | 1 | 13 |
+| last180d | 2026-03-30 | 5 | 41 | 0 | 4 | 3 | 49 |
+| 360d | 2025-10-01 | 16 | 90 | 0 | 29 | 6 | 155 |
+| last720d | 2024-10-06 | 16 | 90 | 0 | 29 | 6 | 177 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:20:59Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:23:17Z._
