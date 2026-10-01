@@ -14,11 +14,11 @@ x install whosthere
 
 ## Code insight
 
-Total: **12,419** lines of code across **125** files in the top 5 languages.
+Total: **12,423** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 12,359 | 1,019 | 2,252 | 122 |
+| Go | 12,363 | 1,019 | 2,252 | 122 |
 | Makefile | 32 | 3 | 11 | 1 |
 | Sh | 28 | 1 | 8 | 1 |
 | Markdown | 0 | 179 | 79 | 1 |
@@ -31,27 +31,27 @@ Total: **12,419** lines of code across **125** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-29)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 2,456 · **Forks**: 76 · **Open issues**: 37 · **Contributors**: 11
+- **Stars**: 2,457 · **Forks**: 76 · **Open issues**: 37 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 7 · **Commits**: 180
+- **Releases**: 17 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 31 · **Open issues**: 6 · **Commits**: 181
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 4 | 0 | 0 | 2 | 7 |
-| last60d | 2026-08-01 | 1 | 7 | 0 | 0 | 2 | 9 |
-| 90d | 2026-07-02 | 2 | 11 | 0 | 0 | 3 | 16 |
-| last180d | 2026-04-03 | 6 | 40 | 0 | 4 | 4 | 50 |
-| 360d | 2025-10-05 | 17 | 91 | 0 | 30 | 7 | 158 |
-| last720d | 2024-10-10 | 17 | 91 | 0 | 30 | 7 | 180 |
+| 30d | 2026-09-01 | 1 | 5 | 0 | 1 | 1 | 8 |
+| last60d | 2026-08-02 | 1 | 7 | 0 | 1 | 1 | 10 |
+| 90d | 2026-07-03 | 2 | 12 | 0 | 1 | 2 | 17 |
+| last180d | 2026-04-04 | 6 | 41 | 0 | 4 | 3 | 51 |
+| 360d | 2025-10-06 | 17 | 92 | 0 | 31 | 6 | 159 |
+| last720d | 2024-10-11 | 17 | 92 | 0 | 31 | 6 | 181 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:01:04Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:16:44Z._
