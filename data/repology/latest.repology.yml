@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: whosthere
+  visiblename: whosthere
+  version: 0.9.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: altsisyphus
   srcname: whosthere
   binnames:
@@ -30,9 +39,9 @@
   srcname: whosthere-bin
   binname: whosthere-bin
   visiblename: whosthere-bin
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: outdated
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
   summary: Local Area Network discovery tool with a modern Terminal User Interface
   maintainers:
     - mopoke@aur
@@ -45,20 +54,6 @@
   origversion: null
   status: newest
   summary: Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there?
-- repo: homebrew
-  srcname: whosthere
-  visiblename: whosthere
-  version: 0.9.0
-  origversion: null
-  status: newest
-  summary: LAN discovery tool with a modern TUI written in Go
-- repo: homebrew
-  srcname: whosthere
-  visiblename: whosthere
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: LAN discovery tool with a modern TUI written in Go
 - repo: nix_stable_26_05
   srcname: whosthere
   visiblename: whosthere
@@ -81,12 +76,17 @@
     - mail@beyermatthias.de
   licenses:
     - Apache-2.0
-- repo: scoop
-  subrepo: main
-  binname: whosthere
+- repo: homebrew
+  srcname: whosthere
   visiblename: whosthere
   version: 0.9.0
   origversion: null
   status: newest
-  licenses:
-    - Apache-2.0
+  summary: LAN discovery tool with a modern TUI written in Go
+- repo: homebrew
+  srcname: whosthere
+  visiblename: whosthere
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: LAN discovery tool with a modern TUI written in Go
