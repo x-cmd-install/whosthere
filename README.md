@@ -31,27 +31,27 @@ Total: **12,423** lines of code across **125** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-29)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-02
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 2,464 · **Forks**: 75 · **Open issues**: 37 · **Contributors**: 11
+- **Stars**: 2,466 · **Forks**: 75 · **Open issues**: 37 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 95 · **Open PRs**: 1 · **Closed issues**: 31 · **Open issues**: 6 · **Commits**: 184
+- **Releases**: 17 · **Merged PRs**: 96 · **Open PRs**: 0 · **Closed issues**: 31 · **Open issues**: 6 · **Commits**: 185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-03 | 1 | 8 | 1 | 1 | 1 | 11 |
-| 90d | 2026-08-04 | 1 | 10 | 1 | 1 | 1 | 13 |
-| last180d | 2026-05-06 | 5 | 38 | 1 | 4 | 3 | 47 |
-| 360d | 2025-11-07 | 17 | 95 | 1 | 31 | 6 | 160 |
-| last720d | 2024-11-12 | 17 | 95 | 1 | 31 | 6 | 184 |
+| 30d | 2026-10-04 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-04 | 1 | 9 | 0 | 1 | 1 | 12 |
+| 90d | 2026-08-05 | 1 | 11 | 0 | 1 | 1 | 14 |
+| last180d | 2026-05-07 | 5 | 39 | 0 | 4 | 3 | 48 |
+| 360d | 2025-11-08 | 17 | 96 | 0 | 31 | 6 | 161 |
+| last720d | 2024-11-13 | 17 | 96 | 0 | 31 | 6 | 185 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:45:30Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:18:27Z._
