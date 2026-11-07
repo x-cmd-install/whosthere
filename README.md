@@ -36,7 +36,7 @@ Total: **12,423** lines of code across **125** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,468 · **Forks**: 74 · **Open issues**: 37 · **Contributors**: 11
+- **Stars**: 2,469 · **Forks**: 74 · **Open issues**: 37 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **12,423** lines of code across **125** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 1 | 9 | 0 | 1 | 1 | 12 |
-| 90d | 2026-08-08 | 1 | 11 | 0 | 1 | 1 | 14 |
-| last180d | 2026-05-10 | 5 | 38 | 0 | 4 | 3 | 48 |
-| 360d | 2025-11-11 | 17 | 96 | 0 | 31 | 6 | 161 |
-| last720d | 2024-11-16 | 17 | 96 | 0 | 31 | 6 | 185 |
+| 30d | 2026-10-08 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-08 | 1 | 8 | 0 | 1 | 1 | 12 |
+| 90d | 2026-08-09 | 1 | 11 | 0 | 1 | 1 | 14 |
+| last180d | 2026-05-11 | 5 | 38 | 0 | 4 | 3 | 48 |
+| 360d | 2025-11-12 | 17 | 96 | 0 | 31 | 6 | 161 |
+| last720d | 2024-11-17 | 17 | 96 | 0 | 31 | 6 | 185 |
 
 ## Release assets
 
@@ -70,6 +70,15 @@ Total: **12,423** lines of code across **125** files in the top 5 languages.
 | [whosthere_0.9.0_windows_amd64.tar.gz](https://github.com/ramonvermeulen/whosthere/releases/download/v0.9.0/whosthere_0.9.0_windows_amd64.tar.gz) | 6.9 MiB | `native/win/x64` |
 | [whosthere_0.9.0_windows_arm64.tar.gz](https://github.com/ramonvermeulen/whosthere/releases/download/v0.9.0/whosthere_0.9.0_windows_arm64.tar.gz) | 6.3 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/whosthere). **5** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.9.0` | ✅ latest |
+| Nix unstable | `0.8.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `whosthere` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +88,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:07:27Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:39:39Z._
