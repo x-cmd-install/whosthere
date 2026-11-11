@@ -36,22 +36,22 @@ Total: **12,423** lines of code across **125** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,470 · **Forks**: 74 · **Open issues**: 37 · **Contributors**: 11
+- **Stars**: 2,471 · **Forks**: 74 · **Open issues**: 37 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 96 · **Open PRs**: 0 · **Closed issues**: 31 · **Open issues**: 6 · **Commits**: 185
+- **Releases**: 17 · **Merged PRs**: 96 · **Open PRs**: 1 · **Closed issues**: 31 · **Open issues**: 6 · **Commits**: 185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-10 | 1 | 8 | 0 | 1 | 1 | 9 |
-| 90d | 2026-08-11 | 1 | 11 | 0 | 1 | 1 | 14 |
-| last180d | 2026-05-13 | 5 | 38 | 0 | 4 | 3 | 46 |
-| 360d | 2025-11-14 | 17 | 96 | 0 | 31 | 6 | 161 |
-| last720d | 2024-11-19 | 17 | 96 | 0 | 31 | 6 | 185 |
+| 30d | 2026-10-12 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-12 | 1 | 7 | 1 | 1 | 1 | 9 |
+| 90d | 2026-08-13 | 1 | 11 | 1 | 1 | 1 | 14 |
+| last180d | 2026-05-15 | 5 | 38 | 1 | 4 | 3 | 46 |
+| 360d | 2025-11-16 | 17 | 96 | 1 | 31 | 6 | 161 |
+| last720d | 2024-11-21 | 17 | 96 | 1 | 31 | 6 | 185 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for whosthere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:05Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:54:35Z._
