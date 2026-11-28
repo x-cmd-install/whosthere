@@ -46,12 +46,12 @@ x install whosthere
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 5 | 1 | 1 | 0 | 6 |
-| last60d | 2026-09-28 | 1 | 9 | 1 | 2 | 1 | 10 |
-| 90d | 2026-08-29 | 1 | 13 | 1 | 2 | 1 | 17 |
-| last180d | 2026-05-31 | 2 | 29 | 1 | 2 | 2 | 33 |
-| 360d | 2025-12-02 | 17 | 100 | 1 | 32 | 6 | 163 |
-| last720d | 2024-12-07 | 17 | 100 | 1 | 32 | 6 | 190 |
+| 30d | 2026-10-29 | 0 | 5 | 1 | 1 | 0 | 6 |
+| last60d | 2026-09-29 | 1 | 9 | 1 | 1 | 0 | 10 |
+| 90d | 2026-08-30 | 1 | 13 | 1 | 2 | 1 | 17 |
+| last180d | 2026-06-01 | 2 | 29 | 1 | 2 | 2 | 33 |
+| 360d | 2025-12-03 | 17 | 100 | 1 | 32 | 6 | 163 |
+| last720d | 2024-12-08 | 17 | 100 | 1 | 32 | 6 | 190 |
 
 ## Release 资产
 
@@ -70,15 +70,6 @@ x install whosthere
 | [whosthere_0.9.0_windows_amd64.tar.gz](https://github.com/ramonvermeulen/whosthere/releases/download/v0.9.0/whosthere_0.9.0_windows_amd64.tar.gz) | 6.9 MiB | `native/win/x64` |
 | [whosthere_0.9.0_windows_arm64.tar.gz](https://github.com/ramonvermeulen/whosthere/releases/download/v0.9.0/whosthere_0.9.0_windows_arm64.tar.gz) | 6.3 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/whosthere) 上共有 **9** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.9.0` | ✅ latest |
-| Nix unstable | `0.9.0` | ✅ latest |
-
 ## 改进这些数据
 
 whosthere 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `whosthere` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +79,4 @@ whosthere 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T08:53:01Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:38:56Z._
